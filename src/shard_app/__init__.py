@@ -1,4 +1,4 @@
-"""Trivial module so an acceptance shard repo has code to change."""
+"""Trivial module for the acceptance shard repo."""
 
 
 def add(left: int, right: int) -> int:
