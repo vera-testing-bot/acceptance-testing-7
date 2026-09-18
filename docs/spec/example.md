@@ -11,3 +11,4 @@ The `add` helper returns the sum of its two arguments.
 Done when:
 
 - [x] `add(2, 3)` returns `5`.
+- [x] `add` raises `ValueError` for arguments outside `[0, 1000]`.
