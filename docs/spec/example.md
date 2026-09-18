@@ -10,4 +10,4 @@ The `add` helper returns the sum of its two arguments.
 
 Done when:
 
-- [ ] `add(2, 3)` returns `5`.
+- [x] `add(2, 3)` returns `5`.
